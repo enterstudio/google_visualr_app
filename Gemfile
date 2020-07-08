@@ -6,7 +6,7 @@ gem 'rails', '3.2.19'
 
 gem 'google_visualr', '~> 2.5.1'
 
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 3.1.3'
 
 gem 'coderay'
 
