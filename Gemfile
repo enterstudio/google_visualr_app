@@ -2,7 +2,7 @@ ruby '2.1.3'
 
 source 'http://rubygems.org'
 
-gem 'rails', '3.2.19'
+gem 'rails', '6.0.3.5'
 
 gem 'google_visualr', '~> 2.5.1'
 
